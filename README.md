@@ -1,2 +1,0 @@
-# MyPet
-MyPet Mobile App
